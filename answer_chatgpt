@@ -1,0 +1,148 @@
+Bagus. Saya akan mengoreksi jawaban Anda seperti dosen yang sedang menguji calon Data Analyst.
+
+# Koreksi Tugas Hari 1
+
+## Jawaban Nomor 1
+
+Anda menjawab:
+
+> mengalami penurunan sebanyak 0.25%
+
+Perhitungannya belum tepat.
+
+Data:
+
+| Bulan    | Penjualan |
+| -------- | --------- |
+| Februari | 120       |
+| Maret    | 90        |
+
+Rumus:
+
+\frac{120-90}{120}\times100%
+
+Hasil:
+
+= 25%
+
+✅ Jawaban yang benar:
+
+> Penjualan bulan Maret mengalami penurunan sebesar 25% dibanding Februari.
+
+Nilai: **7/10**
+
+Kesalahan perhitungan seperti ini sering muncul saat interview Data Analyst, jadi mulai sekarang biasakan cek kembali angka.
+
+---
+
+## Jawaban Nomor 2
+
+Anda menjawab:
+
+> kemungkinan terjadi beberapa faktor,mungkin dari ads, produk atau pengiriman yang lambat
+
+Ini bagus.
+
+Karena seorang Data Analyst harus berpikir dalam bentuk **hipotesis**.
+
+Contoh:
+
+Hipotesis 1:
+
+* Budget iklan turun
+
+Hipotesis 2:
+
+* Produk sering kosong
+
+Hipotesis 3:
+
+* Kompetitor memberikan promo lebih besar
+
+Hipotesis 4:
+
+* Pengiriman lambat
+
+Nilai: **9/10**
+
+---
+
+## Jawaban Nomor 3
+
+Anda menjawab:
+
+> mungkin dari segi produknya dahulu, lalu perpackingan dan ads
+
+Ini menunjukkan Anda mulai berpikir investigatif.
+
+Namun sebagai Data Analyst kita harus meminta **data yang bisa diukur**.
+
+Contoh data yang ingin saya lihat:
+
+### Marketing
+
+* Jumlah pengunjung website
+* Jumlah klik iklan
+* Budget iklan
+
+### Produk
+
+* Stok produk
+* Produk yang paling banyak terjual
+* Produk yang habis
+
+### Operasional
+
+* Waktu pengiriman rata-rata
+* Jumlah komplain
+
+### Customer
+
+* Customer baru
+* Customer lama
+* Customer yang tidak kembali membeli
+
+Nilai: **8/10**
+
+---
+
+## Jawaban Nomor 4
+
+Anda menjawab:
+
+> follow up kepada konsumen yang sudah mulai jarang beli
+
+Ini sangat bagus.
+
+Karena Anda sudah mulai masuk ke:
+
+> Prescriptive Analytics
+
+(yaitu memberikan rekomendasi tindakan)
+
+Contoh rekomendasi yang lebih lengkap:
+
+* Follow up customer lama
+* Berikan voucher diskon
+* Tingkatkan kualitas pengiriman
+* Audit campaign iklan
+* Cek produk yang stoknya habis
+
+Nilai: **9/10**
+
+---
+
+# Nilai Akhir
+
+| Aspek                | Nilai |
+| -------------------- | ----- |
+| Analisa Bisnis       | 9/10  |
+| Logika Data          | 8/10  |
+| Investigasi Penyebab | 8/10  |
+| Perhitungan          | 7/10  |
+
+Rata-rata:
+
+**8/10**
+
+Untuk seseorang yang benar-benar baru belajar Data Analyst, ini hasil yang cukup baik.
